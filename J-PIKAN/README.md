@@ -1,3 +1,9 @@
+> **NOTA:**  
+> ESTE REPOSITÓRIO É APENAS UM CLONE PARA ESTUDOS INDIVIDUAIS.  
+> OS RESULTADOS APRESENTADOS FORAM PRODUZIDOS PELOS AUTORES ORIGINAIS.  
+> TODO CRÉDITO TEM QUE SER DADO A ELES CONFORME INDICADO NA CITAÇÃO!  
+> [VEJA O REPOSITÓRIO ORIGINAL](https://github.com/xgxgnpu/J-PIKAN)
+
 # [J-PIKAN: A Physics-Informed Kolmogorov-Arnold Network Based on Jacobi Orthogonal Polynomials for Solving Fluid Dynamics](https://www.sciencedirect.com/science/article/abs/pii/S1007570425008238)
 
 ## Citation
